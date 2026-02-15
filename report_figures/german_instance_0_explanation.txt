@@ -1,0 +1,44 @@
+============================================================
+German Credit — Instance 0
+============================================================
+
+True label: 0
+Prediction: positive (score: 1.00)
+
+--- FCP Value Contributions ---
+  employment_years = 2.0: +0.5000
+  property = 1.0: +0.2500
+  num_dependents = 1.0: +0.2500
+  Baseline: 0.0000
+  Output:   1.0000
+
+--- FCP Decision Contributions ---
+  num_credits = 1.0: 1.0000
+  Decision margin: +4.000
+
+--- Textual Explanation ---
+## Why this prediction?
+The model predicted TRUE (1).
+This was determined by a combination of:
+  • Decisions: other_installments < residence_years, (|((_K0 + employment_years) + (other_installments / (checking_status - property)))| / (num_dependents * property)) > other_installments
+  • Values: employment_years, num_dependents, property
+
+## How confident is the model?
+The prediction is somewhat unstable (stability: 50%).
+The most critical decision was 'other_installments < residence_years' with a margin of 4.
+
+## What would change the prediction?
+No simple counterfactuals were identified.
+
+--- SHAP Values (for comparison) ---
+  checking_status = 3.0: +1.0111
+  employment_years = 2.0: +0.0860
+  other_installments = 0.0: +0.0715
+  housing = 0.0: -0.0508
+  other_debtors = 0.0: -0.0257
+  num_credits = 1.0: +0.0156
+  num_dependents = 1.0: +0.0132
+  residence_years = 4.0: -0.0091
+  property = 1.0: +0.0056
+  marital_status = 1.0: +0.0026
+  Baseline: -0.1200

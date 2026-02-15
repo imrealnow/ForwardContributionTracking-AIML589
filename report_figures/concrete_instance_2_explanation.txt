@@ -1,0 +1,42 @@
+============================================================
+Concrete Compressive Strength — Instance 2
+============================================================
+
+True label: 30.9574724
+Prediction: 27.5912 (score: 27.59)
+
+--- FCP Value Contributions ---
+  age = 7.0: -5.4088
+  cement = 297.0: +3.0745
+  water = 186.0: +1.9255
+  Baseline: 28.0000
+  Output:   27.5912
+
+--- FCP Decision Contributions ---
+  age = 7.0: 0.9375
+  cement = 297.0: 0.0384
+  water = 186.0: 0.0241
+  Decision margin: +111.000
+
+--- Textual Explanation ---
+## Why this prediction?
+The model produced an output of 27.59.
+The main contributing factors were:
+  • Increasing output: cement (+3.075), water (+1.925)
+  • Decreasing output: age (-5.409)
+
+## How confident is the model?
+The prediction is somewhat unstable (stability: 27%).
+The most critical decision was 'water < cement' with a margin of 111.
+
+## What would change the prediction?
+No simple counterfactuals were identified.
+
+--- SHAP Values (for comparison) ---
+  superplasticizer = 0.0: -6.9006
+  age = 7.0: -4.3451
+  fly_ash = 0.0: +3.0549
+  cement = 297.0: +2.2290
+  blast_furnace_slag = 0.0: -2.1721
+  water = 186.0: -0.1233
+  Baseline: 35.8483

@@ -1,0 +1,52 @@
+============================================================
+Diabetes Risk Prediction — Instance 1
+============================================================
+
+True label: 1.0
+Prediction: positive (score: 6.00)
+
+--- FCP Value Contributions ---
+  polyuria = 1.0: +2.2500
+  polydipsia = 1.0: +2.2500
+  irritability = 1.0: +2.0000
+  sudden_weight_loss = 1.0: +1.0000
+  alopecia = 1.0: -1.0000
+  gender = 1.0: -0.7500
+  delayed_healing = 1.0: +0.2500
+  Baseline: 0.0000
+  Output:   6.0000
+
+--- FCP Decision Contributions ---
+  gender = 1.0: 0.2500
+  polyuria = 1.0: 0.2500
+  polydipsia = 1.0: 0.2500
+  delayed_healing = 1.0: 0.2500
+  Decision margin: +0.000
+
+--- Textual Explanation ---
+## Why this prediction?
+The model produced an output of 6.
+This was determined by a combination of:
+  • Decisions: muscle_stiffness <= weakness, irritability <= muscle_stiffness
+  • Values: polydipsia, polyuria, irritability
+
+## How confident is the model?
+The prediction is very unstable (close to decision boundary) (stability: 0%).
+The most critical decision was 'muscle_stiffness <= weakness' with a margin of 1e-09.
+This decision was barely satisfied - small changes could flip it.
+
+## What would change the prediction?
+No simple counterfactuals were identified.
+
+--- SHAP Values (for comparison) ---
+  polydipsia = 1.0: +1.2861
+  irritability = 1.0: +1.2316
+  polyuria = 1.0: +1.2305
+  alopecia = 1.0: -0.7130
+  sudden_weight_loss = 1.0: +0.5913
+  gender = 1.0: -0.4071
+  muscle_stiffness = 1.0: +0.3559
+  delayed_healing = 1.0: -0.0430
+  weakness = 1.0: +0.0365
+  genital_thrush = 0.0: -0.0287
+  Baseline: 2.4600

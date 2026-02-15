@@ -1,0 +1,21 @@
+\begin{table}[ht]
+  \centering
+  \footnotesize
+  \caption{Instance-level explanation summary. Top-1 features for FCP value, FCP decision, and SHAP.}
+  \label{tab:instance-summary}
+  \begin{tabular}{@{}llrp{2.5cm}p{2.5cm}p{2.5cm}c@{}}
+    \toprule
+    \textbf{Dataset} & \textbf{Inst.} & \textbf{$f(x)$} & \textbf{FCP Value} & \textbf{FCP Decision} & \textbf{SHAP} & \textbf{Agree} \\
+    \midrule
+    German & 0 & 1.00 & employment\_years (+0.50) & num\_credits (1.000) & checking\_status (+1.01) & $\times$ \\
+    German & 1 & -1.00 & residence\_years (-1.00) & num\_credits (1.000) & checking\_status (-0.80) & $\times$ \\
+    German & 2 & 1.00 & property (+1.00) & num\_credits (1.000) & checking\_status (+0.86) & $\times$ \\
+    Concrete & 0 & 40.41 & age (+3.41) & age (0.938) & superplasticizer (-6.65) & $\times$ \\
+    Concrete & 1 & 7.59 & age (+24.59) & age (0.938) & age (-25.07) & $\checkmark$ \\
+    Concrete & 2 & 27.59 & age (-5.41) & age (0.938) & superplasticizer (-6.90) & $\times$ \\
+    Diabetes & 0 & 5.00 & polyuria (+2.25) & gender (0.250) & polydipsia (+1.34) & $\times$ \\
+    Diabetes & 1 & 6.00 & polyuria (+2.25) & gender (0.250) & polydipsia (+1.29) & $\times$ \\
+    Diabetes & 2 & 5.00 & polyuria (+2.33) & polyuria (0.333) & polydipsia (+1.33) & $\times$ \\
+    \bottomrule
+  \end{tabular}
+\end{table}

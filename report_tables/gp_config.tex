@@ -1,0 +1,23 @@
+\begin{table}[ht]
+  \centering
+  \caption{GP evolution configuration for each dataset. Cost matrix entries denote misclassification penalties: FN = false negative, FP = false positive.}
+  \label{tab:gp-config}
+  \begin{tabular}{@{}lccc@{}}
+    \toprule
+    \textbf{Parameter} & \textbf{German Credit} & \textbf{Concrete} & \textbf{Diabetes} \\
+    \midrule
+    Population size ($\mu$) & 150 & 150 & 150 \\
+    Offspring ($\lambda$) & 300 & 300 & 300 \\
+    Generations & 300 & 300 & 300 \\
+    Max tree depth & 17 & 17 & 17 \\
+    Crossover prob. & 0.7 & 0.7 & 0.7 \\
+    Mutation prob. & 0.2 & 0.2 & 0.2 \\
+    Tournament size & 5 & 5 & 5 \\
+    \midrule
+    Fitness function & Cost matrix & MSE & Cost matrix \\
+    Cost: FN & 1 & --- & 2 \\
+    Cost: FP & 5 & --- & 1 \\
+    Key metric & Specificity & $R^2$ & Sensitivity \\
+    \bottomrule
+  \end{tabular}
+\end{table}

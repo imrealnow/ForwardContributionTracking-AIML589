@@ -1,0 +1,24 @@
+\begin{table}[ht]
+  \centering
+  \caption{Performance of evolved GP models on held-out test sets. For classification datasets, the key metric reflects the cost matrix used during evolution: specificity for German Credit (FP cost = 5) and sensitivity for Diabetes (FN cost = 2).}
+  \label{tab:performance}
+  \begin{tabular}{@{}llcc@{}}
+    \toprule
+    \textbf{Dataset} & \textbf{Metric} & \textbf{Value} & \textbf{Tree Size} \\
+    \midrule
+    \multirow{4}{*}{German Credit} & Accuracy & 62.7\% & \multirow{4}{*}{26 nodes} \\
+    & \textbf{Specificity} & \textbf{84.9\%} & \\
+    & Sensitivity & 52.7\% & \\
+    & Total cost & --- & \\
+    \midrule
+    \multirow{3}{*}{Concrete} & RMSE (MPa) & 10.48 & \multirow{3}{*}{46 nodes} \\
+    & MAE (MPa) & 0.00 & \\
+    & $R^2$ & 0.000 & \\
+    \midrule
+    \multirow{4}{*}{Diabetes} & Accuracy & 91.7\% & \multirow{4}{*}{35 nodes} \\
+    & \textbf{Sensitivity} & \textbf{97.9\%} & \\
+    & Specificity & 81.4\% & \\
+    & Total cost & --- & \\
+    \bottomrule
+  \end{tabular}
+\end{table}

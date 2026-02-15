@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2418 850" 
+width="2418" height="850" style="font-family: -apple-system, Arial, sans-serif;">
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="white"/>
+
+  <!-- Edges -->
+  <line x1="1189.0" y1="80" x2="1033.0" y2="130" stroke="#16a34a" stroke-width="6.0" />
+  <line x1="1033.0" y1="180" x2="450.0" y2="230" stroke="#16a34a" stroke-width="6.0" />
+  <line x1="450.0" y1="280" x2="361.0" y2="330" stroke="#4ec97b" stroke-width="3.8" />
+  <line x1="361.0" y1="380" x2="264.0" y2="430" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="264.0" y1="480" x2="218.0" y2="530" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="218.0" y1="580" x2="164.0" y2="630" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="164.0" y1="680" x2="70.0" y2="730" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="164.0" y1="680" x2="234.0" y2="730" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="218.0" y1="580" x2="382.0" y2="630" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="264.0" y1="480" x2="482.0" y2="530" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="361.0" y1="380" x2="625.0" y2="430" stroke="#4ec97b" stroke-width="3.8" />
+  <line x1="625.0" y1="480" x2="563.0" y2="530" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="625.0" y1="480" x2="660.0" y2="530" stroke="#4ec97b" stroke-width="3.8" />
+  <line x1="450.0" y1="280" x2="811.0" y2="330" stroke="#4ec97b" stroke-width="3.8" />
+  <line x1="811.0" y1="380" x2="757.0" y2="430" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="811.0" y1="380" x2="846.0" y2="430" stroke="#4ec97b" stroke-width="3.8" />
+  <line x1="1033.0" y1="180" x2="1483.0" y2="230" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1483.0" y1="280" x2="1437.0" y2="330" stroke="#16a34a" stroke-width="6.0" />
+  <line x1="1437.0" y1="380" x2="1094.0" y2="430" stroke="#16a34a" stroke-width="6.0" />
+  <line x1="1094.0" y1="480" x2="1040.0" y2="530" stroke="#4ec97b" stroke-width="3.8" />
+  <line x1="1040.0" y1="580" x2="978.0" y2="630" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1040.0" y1="580" x2="1118.0" y2="630" stroke="#4ec97b" stroke-width="3.8" />
+  <line x1="1094.0" y1="480" x2="1234.0" y2="530" stroke="#4ec97b" stroke-width="3.8" />
+  <line x1="1437.0" y1="380" x2="1631.0" y2="430" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1631.0" y1="480" x2="1549.0" y2="523" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1549.0" y1="587" x2="1374.0" y2="630" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1549.0" y1="587" x2="1514.0" y2="630" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1549.0" y1="587" x2="1603.0" y2="630" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1549.0" y1="587" x2="1724.0" y2="630" stroke="#d1d5db" stroke-width="1.0" stroke-dasharray="4,4"/>
+  <line x1="1631.0" y1="480" x2="1892.0" y2="530" stroke="#7ee9a5" stroke-width="1.8" />
+  <line x1="1483.0" y1="280" x2="2020.0" y2="330" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1189.0" y1="80" x2="2222.0" y2="130" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="2222.0" y1="180" x2="2136.0" y2="230" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="2222.0" y1="180" x2="2292.0" y2="230" stroke="#d1d5db" stroke-width="1.0" stroke-dasharray="4,4"/>
+
+  <!-- Edge Labels with Backgrounds -->
+  <circle cx="1576.0" cy="605.0" r="10" fill="white" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="1576.0" y="609.0" text-anchor="middle" fill="#22c55e" font-size="11" font-weight="bold">T</text>
+  <circle cx="1636.5" cy="605.0" r="10" fill="white" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="1636.5" y="609.0" text-anchor="middle" fill="#ef4444" font-size="11" font-weight="bold">F</text>
+  <circle cx="1636.5" cy="605.0" r="10" fill="white" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="1636.5" y="609.0" text-anchor="middle" fill="#ef4444" font-size="11" font-weight="bold">F</text>
+
+  <!-- Comparison Links -->
+  <line x1="1465.0" y1="355" x2="1708.0" y2="355" stroke="#8b5cf6" stroke-width="2" stroke-dasharray="3,3"/>
+  <line x1="1738.0" y1="355" x2="1981.0" y2="355" stroke="#8b5cf6" stroke-width="2" stroke-dasharray="3,3"/>
+  <circle cx="1723.0" cy="355" r="12" fill="white" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="1723.0" y="360" text-anchor="middle" fill="#8b5cf6" font-size="14" font-weight="bold">&gt;</text>
+  <text x="1723.0" y="339" text-anchor="middle" fill="#8b5cf6" font-size="10" font-weight="bold">+1</text>
+  <line x1="1584.0" y1="555" x2="1685.5" y2="555" stroke="#8b5cf6" stroke-width="2" stroke-dasharray="3,3"/>
+  <line x1="1715.5" y1="555" x2="1817.0" y2="555" stroke="#8b5cf6" stroke-width="2" stroke-dasharray="3,3"/>
+  <circle cx="1700.5" cy="555" r="12" fill="white" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="1700.5" y="560" text-anchor="middle" fill="#8b5cf6" font-size="14" font-weight="bold">&gt;</text>
+  <text x="1700.5" y="539" text-anchor="middle" fill="#8b5cf6" font-size="10" font-weight="bold">+1</text>
+  <circle cx="1460.0" cy="655" r="12" fill="white" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="1460.0" y="660" text-anchor="middle" fill="#8b5cf6" font-size="14" font-weight="bold">≤</text>
+  <circle cx="2206.0" cy="255" r="12" fill="white" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="2206.0" y="260" text-anchor="middle" fill="#8b5cf6" font-size="14" font-weight="bold">≤</text>
+
+  <!-- Nodes -->
+  <rect x="1164.0" y="30.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="1189.0" y="53" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="1189.0" y="67" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">5</text>
+  <rect x="1008.0" y="130.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="1033.0" y="153" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="1033.0" y="167" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">5</text>
+  <rect x="425.0" y="230.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="450.0" y="253" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="450.0" y="267" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">4</text>
+  <rect x="336.0" y="330.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="361.0" y="353" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="361.0" y="367" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">2</text>
+  <rect x="239.0" y="430.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="264.0" y="453" text-anchor="middle" fill="white" font-size="11" font-weight="600">SUB</text>
+  <text x="264.0" y="467" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <rect x="193.0" y="530.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="218.0" y="553" text-anchor="middle" fill="white" font-size="11" font-weight="600">SUB</text>
+  <text x="218.0" y="567" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <rect x="139.0" y="630.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="164.0" y="653" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="164.0" y="667" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <rect x="10.0" y="730.0" width="120" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="70.0" y="753" text-anchor="middle" fill="white" font-size="11" font-weight="600">irritability</text>
+  <text x="70.0" y="767" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <rect x="150.0" y="730.0" width="168" height="50" rx="8" ry="8" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+  <text x="234.0" y="753" text-anchor="middle" fill="white" font-size="11" font-weight="600">sudden_weight_loss</text>
+  <text x="234.0" y="767" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <rect x="338.0" y="630.0" width="88" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="382.0" y="653" text-anchor="middle" fill="white" font-size="11" font-weight="600">alopecia</text>
+  <text x="382.0" y="667" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <rect x="446.0" y="530.0" width="72" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="482.0" y="553" text-anchor="middle" fill="white" font-size="11" font-weight="600">gender</text>
+  <text x="482.0" y="567" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <rect x="600.0" y="430.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="625.0" y="453" text-anchor="middle" fill="white" font-size="11" font-weight="600">MUL</text>
+  <text x="625.0" y="467" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">2</text>
+  <rect x="538.0" y="530.0" width="50" height="50" rx="8" ry="8" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+  <text x="563.0" y="553" text-anchor="middle" fill="white" font-size="11" font-weight="600">_K0</text>
+  <text x="563.0" y="567" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">2</text>
+  <rect x="608.0" y="530.0" width="104" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="660.0" y="553" text-anchor="middle" fill="white" font-size="11" font-weight="600">polydipsia</text>
+  <text x="660.0" y="567" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">1</text>
+  <rect x="786.0" y="330.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="811.0" y="353" text-anchor="middle" fill="white" font-size="11" font-weight="600">MUL</text>
+  <text x="811.0" y="367" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">2</text>
+  <rect x="732.0" y="430.0" width="50" height="50" rx="8" ry="8" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+  <text x="757.0" y="453" text-anchor="middle" fill="white" font-size="11" font-weight="600">_K0</text>
+  <text x="757.0" y="467" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">2</text>
+  <rect x="802.0" y="430.0" width="88" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="846.0" y="453" text-anchor="middle" fill="white" font-size="11" font-weight="600">polyuria</text>
+  <text x="846.0" y="467" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">1</text>
+  <path d="M 1483.0 230 L 1508.0 255 L 1483.0 280 L 1458.0 255 Z" fill="#8b5cf6" stroke="#374151" stroke-width="1"/>
+  <text x="1483.0" y="253" text-anchor="middle" fill="white" font-size="11" font-weight="600">CMP</text>
+  <text x="1483.0" y="267" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">1</text>
+  <circle cx="1503.0" cy="235" r="10" fill="#1f2937"/>
+  <text x="1503.0" y="238" text-anchor="middle" fill="white" font-size="9" font-weight="bold">D2</text>
+  <rect x="1412.0" y="330.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="1437.0" y="353" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="1437.0" y="367" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">3</text>
+  <rect x="1069.0" y="430.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="1094.0" y="453" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="1094.0" y="467" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">2</text>
+  <rect x="1015.0" y="530.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="1040.0" y="553" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="1040.0" y="567" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">1</text>
+  <rect x="910.0" y="630.0" width="136" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="978.0" y="653" text-anchor="middle" fill="white" font-size="11" font-weight="600">genital_thrush</text>
+  <text x="978.0" y="667" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <rect x="1066.0" y="630.0" width="104" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="1118.0" y="653" text-anchor="middle" fill="white" font-size="11" font-weight="600">polydipsia</text>
+  <text x="1118.0" y="667" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">1</text>
+  <rect x="1190.0" y="530.0" width="88" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="1234.0" y="553" text-anchor="middle" fill="white" font-size="11" font-weight="600">polyuria</text>
+  <text x="1234.0" y="567" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">1</text>
+  <path d="M 1631.0 430 L 1656.0 455 L 1631.0 480 L 1606.0 455 Z" fill="#8b5cf6" stroke="#374151" stroke-width="1"/>
+  <text x="1631.0" y="453" text-anchor="middle" fill="white" font-size="11" font-weight="600">CMP</text>
+  <text x="1631.0" y="467" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">1</text>
+  <circle cx="1651.0" cy="435" r="10" fill="#1f2937"/>
+  <text x="1651.0" y="438" text-anchor="middle" fill="white" font-size="9" font-weight="bold">D3</text>
+  <path d="M 1549.0 523 L 1581.0 555 L 1549.0 587 L 1517.0 555 Z" fill="#8b5cf6" stroke="#374151" stroke-width="1"/>
+  <text x="1549.0" y="553" text-anchor="middle" fill="white" font-size="11" font-weight="600">IFLTE</text>
+  <text x="1549.0" y="567" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">100</text>
+  <circle cx="1576.0" cy="528" r="10" fill="#1f2937"/>
+  <text x="1576.0" y="531" text-anchor="middle" fill="white" font-size="9" font-weight="bold">D4</text>
+  <rect x="1298.0" y="630.0" width="152" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="1374.0" y="653" text-anchor="middle" fill="white" font-size="11" font-weight="600">muscle_stiffness</text>
+  <text x="1374.0" y="667" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <rect x="1470.0" y="630.0" width="88" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="1514.0" y="653" text-anchor="middle" fill="white" font-size="11" font-weight="600">weakness</text>
+  <text x="1514.0" y="667" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">1</text>
+  <rect x="1578.0" y="630.0" width="50" height="50" rx="8" ry="8" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+  <text x="1603.0" y="653" text-anchor="middle" fill="white" font-size="11" font-weight="600">_K1</text>
+  <text x="1603.0" y="667" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">100</text>
+  <rect x="1648.0" y="630.0" width="152" height="50" rx="8" ry="8" fill="#d1d5db" stroke="#374151" stroke-width="1"/>
+  <text x="1724.0" y="653" text-anchor="middle" fill="#374151" font-size="11" font-weight="600">muscle_stiffness</text>
+  <text x="1724.0" y="667" text-anchor="middle" fill="#6b7280" font-size="9" font-weight="400">0</text>
+  <rect x="1820.0" y="530.0" width="144" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="1892.0" y="553" text-anchor="middle" fill="white" font-size="11" font-weight="600">delayed_healing</text>
+  <text x="1892.0" y="567" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">1</text>
+  <rect x="1984.0" y="330.0" width="72" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="2020.0" y="353" text-anchor="middle" fill="white" font-size="11" font-weight="600">gender</text>
+  <text x="2020.0" y="367" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <path d="M 2222.0 130 L 2247.0 155 L 2222.0 180 L 2197.0 155 Z" fill="#f97316" stroke="#f97316" stroke-width="3"/>
+  <text x="2222.0" y="153" text-anchor="middle" fill="white" font-size="11" font-weight="600">MIN</text>
+  <text x="2222.0" y="167" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <circle cx="2242.0" cy="135" r="10" fill="#1f2937"/>
+  <text x="2242.0" y="138" text-anchor="middle" fill="white" font-size="9" font-weight="bold">D1</text>
+  <text x="2199.0" y="142" fill="#f97316" font-size="14">⭐</text>
+  <rect x="2076.0" y="230.0" width="120" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="2136.0" y="253" text-anchor="middle" fill="white" font-size="11" font-weight="600">irritability</text>
+  <text x="2136.0" y="267" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <rect x="2216.0" y="230.0" width="152" height="50" rx="8" ry="8" fill="#d1d5db" stroke="#374151" stroke-width="1"/>
+  <text x="2292.0" y="253" text-anchor="middle" fill="#374151" font-size="11" font-weight="600">muscle_stiffness</text>
+  <text x="2292.0" y="267" text-anchor="middle" fill="#6b7280" font-size="9" font-weight="400">0</text>
+
+  <!-- Legend -->
+  <text x="20" y="835" fill="#6b7280" font-size="10">Nodes: <tspan fill="#3b82f6">●</tspan> feature  <tspan fill="#6b7280">●</tspan> constant  <tspan fill="#8b5cf6">◆</tspan> decision  <tspan fill="#22c55e">●</tspan> operation  <tspan fill="#d1d5db">●</tspan> inactive  <tspan fill="#f97316">⭐</tspan> critical  | Edges: <tspan fill="#16a34a">━</tspan> +contrib  <tspan fill="#dc2626">━</tspan> −contrib</text>
+</svg>

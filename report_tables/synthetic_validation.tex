@@ -1,0 +1,18 @@
+\begin{table}[H]
+  \centering
+  \footnotesize
+  \setlength{\tabcolsep}{4pt}
+  \caption{Synthetic validation results. \emph{Value}: FCP attributions match ground truth. \emph{Compl.}: $\sum c_j + \beta = f(\mathbf{x})$. \emph{Decn.}: decision contributions correctly identify condition-driving features.}
+  \label{tab:synthetic-validation}
+  \begin{tabularx}{\textwidth}{@{}l l r c c c X@{}}
+    \toprule
+    \textbf{Test Case} & \textbf{Expression} & \textbf{$f(\mathbf{x})$} & \textbf{Val.} & \textbf{Cpl.} & \textbf{Dec.} & \textbf{Notes} \\
+    \midrule
+    Additive & $x_1 + x_2 + x_3$ & 6.0 & $\checkmark$ & $\checkmark$ & --- & Contributions pass through linearly; each feature's contribution equals its value. \\[3pt]
+    Multiplicative & $x \times y$ & 6.0 & $\checkmark$ & $\checkmark$ & --- & ANOVA decomposition distributes interaction term; completeness verified. \\[3pt]
+    Conditional & IF($x_1 \leq 0$, $x_2$, $x_3$) & $-3.0$ & $\checkmark$ & $\checkmark$ & $\checkmark$ & Value from selected branch only ($x_3$); unselected branch ($x_2$) receives zero. \\[3pt]
+    Irrelevant & $x_1 + x_2$ & 5.0 & $\checkmark$ & $\checkmark$ & --- & $x_3$, $x_4$ absent from the tree; both receive exactly zero attribution. \\[3pt]
+    Nested cond. & IF($x_1 \!\leq\! 0$, IF($x_2 \!\leq\! 0$, $x_3$, $x_4$), $x_5$) & 7.0 & $\checkmark$ & $\checkmark$ & $\times$ & Value attributed only to $x_4$ (selected path); both $x_1$ and $x_2$ receive decision attribution. \\
+    \bottomrule
+  \end{tabularx}
+\end{table}

@@ -1,0 +1,242 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2114 1350" 
+width="2114" height="1350" style="font-family: -apple-system, Arial, sans-serif;">
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="white"/>
+
+  <!-- Edges -->
+  <line x1="1037.0" y1="80" x2="158.5" y2="130" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="158.5" y1="180" x2="86.0" y2="230" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="158.5" y1="180" x2="244.5" y2="230" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="244.5" y1="280" x2="209.5" y2="330" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="244.5" y1="280" x2="282.0" y2="330" stroke="#16a34a" stroke-width="6.0" />
+  <line x1="1037.0" y1="80" x2="1195.5" y2="130" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1195.5" y1="180" x2="1195.5" y2="230" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1195.5" y1="280" x2="1110.5" y2="330" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1110.5" y1="380" x2="1003.0" y2="430" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1003.0" y1="480" x2="918.0" y2="530" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="918.0" y1="580" x2="845.5" y2="630" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="845.5" y1="680" x2="714.0" y2="730" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="714.0" y1="780" x2="582.5" y2="830" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="582.5" y1="880" x2="459.5" y2="930" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="459.5" y1="980" x2="352.0" y2="1030" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="459.5" y1="980" x2="494.5" y2="1030" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="494.5" y1="1080" x2="422.0" y2="1130" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="494.5" y1="1080" x2="529.5" y2="1130" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="529.5" y1="1180" x2="494.5" y2="1230" stroke="#d1d5db" stroke-width="1.0" stroke-dasharray="4,4"/>
+  <line x1="529.5" y1="1180" x2="567.0" y2="1230" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="582.5" y1="880" x2="725.0" y2="930" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="725.0" y1="980" x2="637.0" y2="1030" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="725.0" y1="980" x2="760.0" y2="1030" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="760.0" y1="1080" x2="714.0" y2="1130" stroke="#3cbc6b" stroke-width="4.5" />
+  <line x1="760.0" y1="1080" x2="802.0" y2="1130" stroke="#2bb15c" stroke-width="5.1" />
+  <line x1="714.0" y1="780" x2="979.5" y2="830" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="979.5" y1="880" x2="885.5" y2="930" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="979.5" y1="880" x2="1017.0" y2="930" stroke="#44c272" stroke-width="4.1" />
+  <line x1="845.5" y1="680" x2="1242.5" y2="730" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1242.5" y1="780" x2="1148.5" y2="830" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1242.5" y1="780" x2="1280.0" y2="830" stroke="#44c272" stroke-width="4.1" />
+  <line x1="918.0" y1="580" x2="1446.5" y2="630" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1446.5" y1="680" x2="1411.5" y2="730" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1446.5" y1="680" x2="1484.0" y2="730" stroke="#16a34a" stroke-width="6.0" />
+  <line x1="1003.0" y1="480" x2="1604.0" y2="530" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1604.0" y1="580" x2="1569.0" y2="630" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1604.0" y1="580" x2="1654.0" y2="630" stroke="#16a34a" stroke-width="6.0" />
+  <line x1="1110.5" y1="380" x2="1796.5" y2="430" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1796.5" y1="480" x2="1724.0" y2="530" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1796.5" y1="480" x2="1831.5" y2="530" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1831.5" y1="580" x2="1796.5" y2="630" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1831.5" y1="580" x2="1869.0" y2="630" stroke="#16a34a" stroke-width="6.0" />
+  <line x1="1195.5" y1="280" x2="1989.0" y2="330" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1989.0" y1="380" x2="1954.0" y2="430" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="1989.0" y1="380" x2="2039.0" y2="430" stroke="#d1d5db" stroke-width="1.0" stroke-dasharray="4,4"/>
+
+  <!-- Comparison Links -->
+  <circle cx="245.75" cy="355" r="12" fill="white" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="245.75" y="360" text-anchor="middle" fill="#8b5cf6" font-size="14" font-weight="bold">&gt;</text>
+  <text x="245.75" y="339" text-anchor="middle" fill="#8b5cf6" font-size="10" font-weight="bold">+1</text>
+  <circle cx="530.75" cy="1255" r="12" fill="white" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="530.75" y="1260" text-anchor="middle" fill="#8b5cf6" font-size="14" font-weight="bold">&gt;</text>
+  <circle cx="756.0" cy="1155" r="12" fill="white" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="756.0" y="1160" text-anchor="middle" fill="#8b5cf6" font-size="14" font-weight="bold">&lt;</text>
+  <text x="756.0" y="1139" text-anchor="middle" fill="#8b5cf6" font-size="10" font-weight="bold">−1</text>
+  <circle cx="921.75" cy="955" r="12" fill="white" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="921.75" y="960" text-anchor="middle" fill="#8b5cf6" font-size="14" font-weight="bold">&lt;</text>
+  <text x="921.75" y="939" text-anchor="middle" fill="#8b5cf6" font-size="10" font-weight="bold">−1</text>
+  <circle cx="1184.75" cy="855" r="12" fill="white" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="1184.75" y="860" text-anchor="middle" fill="#8b5cf6" font-size="14" font-weight="bold">&lt;</text>
+  <text x="1184.75" y="839" text-anchor="middle" fill="#8b5cf6" font-size="10" font-weight="bold">−1</text>
+  <circle cx="1447.75" cy="755" r="12" fill="white" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="1447.75" y="760" text-anchor="middle" fill="#8b5cf6" font-size="14" font-weight="bold">&gt;</text>
+  <text x="1447.75" y="739" text-anchor="middle" fill="#8b5cf6" font-size="10" font-weight="bold">+1</text>
+  <circle cx="1619.0" cy="655" r="12" fill="white" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="1619.0" y="660" text-anchor="middle" fill="#8b5cf6" font-size="14" font-weight="bold">&lt;</text>
+  <text x="1619.0" y="639" text-anchor="middle" fill="#8b5cf6" font-size="10" font-weight="bold">−1</text>
+  <circle cx="1832.75" cy="655" r="12" fill="white" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="1832.75" y="660" text-anchor="middle" fill="#8b5cf6" font-size="14" font-weight="bold">&lt;</text>
+  <text x="1832.75" y="639" text-anchor="middle" fill="#8b5cf6" font-size="10" font-weight="bold">−1</text>
+  <circle cx="2004.0" cy="455" r="12" fill="white" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="2004.0" y="460" text-anchor="middle" fill="#8b5cf6" font-size="14" font-weight="bold">≤</text>
+
+  <!-- Nodes -->
+  <rect x="1012.0" y="30.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="1037.0" y="53" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="1037.0" y="67" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">40.41</text>
+  <rect x="133.5" y="130.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="158.5" y="153" text-anchor="middle" fill="white" font-size="11" font-weight="600">SUB</text>
+  <text x="158.5" y="167" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-1</text>
+  <rect x="10.0" y="230.0" width="152" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="86.0" y="253" text-anchor="middle" fill="white" font-size="11" font-weight="600">superplasticizer</text>
+  <text x="86.0" y="267" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <path d="M 244.5 230 L 269.5 255 L 244.5 280 L 219.5 255 Z" fill="#8b5cf6" stroke="#374151" stroke-width="1"/>
+  <text x="244.5" y="253" text-anchor="middle" fill="white" font-size="11" font-weight="600">CMP</text>
+  <text x="244.5" y="267" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">1</text>
+  <circle cx="264.5" cy="235" r="10" fill="#1f2937"/>
+  <text x="264.5" y="238" text-anchor="middle" fill="white" font-size="9" font-weight="bold">D1</text>
+  <rect x="184.5" y="330.0" width="50" height="50" rx="8" ry="8" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+  <text x="209.5" y="353" text-anchor="middle" fill="white" font-size="11" font-weight="600">_K0</text>
+  <text x="209.5" y="367" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">50</text>
+  <rect x="257.0" y="330.0" width="50" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="282.0" y="353" text-anchor="middle" fill="white" font-size="11" font-weight="600">age</text>
+  <text x="282.0" y="367" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">28</text>
+  <rect x="1170.5" y="130.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="1195.5" y="153" text-anchor="middle" fill="white" font-size="11" font-weight="600">ABS</text>
+  <text x="1195.5" y="167" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">41.41</text>
+  <rect x="1170.5" y="230.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="1195.5" y="253" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="1195.5" y="267" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-41.41</text>
+  <rect x="1085.5" y="330.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="1110.5" y="353" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="1110.5" y="367" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-41.41</text>
+  <rect x="978.0" y="430.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="1003.0" y="453" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="1003.0" y="467" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-37</text>
+  <rect x="893.0" y="530.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="918.0" y="553" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="918.0" y="567" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-36</text>
+  <rect x="820.5" y="630.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="845.5" y="653" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="845.5" y="667" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-37</text>
+  <rect x="689.0" y="730.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="714.0" y="753" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="714.0" y="767" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-36</text>
+  <rect x="557.5" y="830.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="582.5" y="853" text-anchor="middle" fill="white" font-size="11" font-weight="600">ADD</text>
+  <text x="582.5" y="867" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-35</text>
+  <rect x="434.5" y="930.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="459.5" y="953" text-anchor="middle" fill="white" font-size="11" font-weight="600">SUB</text>
+  <text x="459.5" y="967" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-30</text>
+  <rect x="327.0" y="1030.0" width="50" height="50" rx="8" ry="8" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+  <text x="352.0" y="1053" text-anchor="middle" fill="white" font-size="11" font-weight="600">_K1</text>
+  <text x="352.0" y="1067" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">20</text>
+  <rect x="469.5" y="1030.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="494.5" y="1053" text-anchor="middle" fill="white" font-size="11" font-weight="600">MUL</text>
+  <text x="494.5" y="1067" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">50</text>
+  <rect x="397.0" y="1130.0" width="50" height="50" rx="8" ry="8" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+  <text x="422.0" y="1153" text-anchor="middle" fill="white" font-size="11" font-weight="600">_K2</text>
+  <text x="422.0" y="1167" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">10</text>
+  <path d="M 529.5 1130 L 554.5 1155 L 529.5 1180 L 504.5 1155 Z" fill="#8b5cf6" stroke="#374151" stroke-width="1"/>
+  <text x="529.5" y="1153" text-anchor="middle" fill="white" font-size="11" font-weight="600">MIN</text>
+  <text x="529.5" y="1167" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">5</text>
+  <circle cx="549.5" cy="1135" r="10" fill="#1f2937"/>
+  <text x="549.5" y="1138" text-anchor="middle" fill="white" font-size="9" font-weight="bold">D9</text>
+  <rect x="469.5" y="1230.0" width="50" height="50" rx="8" ry="8" fill="#d1d5db" stroke="#374151" stroke-width="1"/>
+  <text x="494.5" y="1253" text-anchor="middle" fill="#374151" font-size="11" font-weight="600">age</text>
+  <text x="494.5" y="1267" text-anchor="middle" fill="#6b7280" font-size="9" font-weight="400">28</text>
+  <rect x="542.0" y="1230.0" width="50" height="50" rx="8" ry="8" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+  <text x="567.0" y="1253" text-anchor="middle" fill="white" font-size="11" font-weight="600">_K3</text>
+  <text x="567.0" y="1267" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">5</text>
+  <rect x="700.0" y="930.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="725.0" y="953" text-anchor="middle" fill="white" font-size="11" font-weight="600">MUL</text>
+  <text x="725.0" y="967" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-5</text>
+  <rect x="612.0" y="1030.0" width="50" height="50" rx="8" ry="8" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+  <text x="637.0" y="1053" text-anchor="middle" fill="white" font-size="11" font-weight="600">_K3</text>
+  <text x="637.0" y="1067" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">5</text>
+  <path d="M 760.0 1030 L 785.0 1055 L 760.0 1080 L 735.0 1055 Z" fill="#8b5cf6" stroke="#374151" stroke-width="1"/>
+  <text x="760.0" y="1053" text-anchor="middle" fill="white" font-size="11" font-weight="600">CMP</text>
+  <text x="760.0" y="1067" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-1</text>
+  <circle cx="780.0" cy="1035" r="10" fill="#1f2937"/>
+  <text x="780.0" y="1038" text-anchor="middle" fill="white" font-size="9" font-weight="bold">D8</text>
+  <rect x="682.0" y="1130.0" width="64" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="714.0" y="1153" text-anchor="middle" fill="white" font-size="11" font-weight="600">water</text>
+  <text x="714.0" y="1167" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">185.7</text>
+  <rect x="766.0" y="1130.0" width="72" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="802.0" y="1153" text-anchor="middle" fill="white" font-size="11" font-weight="600">cement</text>
+  <text x="802.0" y="1167" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">228</text>
+  <path d="M 979.5 830 L 1004.5 855 L 979.5 880 L 954.5 855 Z" fill="#8b5cf6" stroke="#374151" stroke-width="1"/>
+  <text x="979.5" y="853" text-anchor="middle" fill="white" font-size="11" font-weight="600">CMP</text>
+  <text x="979.5" y="867" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-1</text>
+  <circle cx="999.5" cy="835" r="10" fill="#1f2937"/>
+  <text x="999.5" y="838" text-anchor="middle" fill="white" font-size="9" font-weight="bold">D7</text>
+  <rect x="860.5" y="930.0" width="50" height="50" rx="8" ry="8" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+  <text x="885.5" y="953" text-anchor="middle" fill="white" font-size="11" font-weight="600">_K3</text>
+  <text x="885.5" y="967" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">5</text>
+  <rect x="933.0" y="930.0" width="168" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="1017.0" y="953" text-anchor="middle" fill="white" font-size="11" font-weight="600">blast_furnace_slag</text>
+  <text x="1017.0" y="967" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">342.1</text>
+  <path d="M 1242.5 730 L 1267.5 755 L 1242.5 780 L 1217.5 755 Z" fill="#8b5cf6" stroke="#374151" stroke-width="1"/>
+  <text x="1242.5" y="753" text-anchor="middle" fill="white" font-size="11" font-weight="600">CMP</text>
+  <text x="1242.5" y="767" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-1</text>
+  <circle cx="1262.5" cy="735" r="10" fill="#1f2937"/>
+  <text x="1262.5" y="738" text-anchor="middle" fill="white" font-size="9" font-weight="bold">D6</text>
+  <rect x="1123.5" y="830.0" width="50" height="50" rx="8" ry="8" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+  <text x="1148.5" y="853" text-anchor="middle" fill="white" font-size="11" font-weight="600">_K2</text>
+  <text x="1148.5" y="867" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">10</text>
+  <rect x="1196.0" y="830.0" width="168" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="1280.0" y="853" text-anchor="middle" fill="white" font-size="11" font-weight="600">blast_furnace_slag</text>
+  <text x="1280.0" y="867" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">342.1</text>
+  <path d="M 1446.5 630 L 1471.5 655 L 1446.5 680 L 1421.5 655 Z" fill="#8b5cf6" stroke="#374151" stroke-width="1"/>
+  <text x="1446.5" y="653" text-anchor="middle" fill="white" font-size="11" font-weight="600">CMP</text>
+  <text x="1446.5" y="667" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">1</text>
+  <circle cx="1466.5" cy="635" r="10" fill="#1f2937"/>
+  <text x="1466.5" y="638" text-anchor="middle" fill="white" font-size="9" font-weight="bold">D5</text>
+  <rect x="1386.5" y="730.0" width="50" height="50" rx="8" ry="8" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+  <text x="1411.5" y="753" text-anchor="middle" fill="white" font-size="11" font-weight="600">_K0</text>
+  <text x="1411.5" y="767" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">50</text>
+  <rect x="1459.0" y="730.0" width="50" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="1484.0" y="753" text-anchor="middle" fill="white" font-size="11" font-weight="600">age</text>
+  <text x="1484.0" y="767" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">28</text>
+  <path d="M 1604.0 530 L 1629.0 555 L 1604.0 580 L 1579.0 555 Z" fill="#8b5cf6" stroke="#374151" stroke-width="1"/>
+  <text x="1604.0" y="553" text-anchor="middle" fill="white" font-size="11" font-weight="600">CMP</text>
+  <text x="1604.0" y="567" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-1</text>
+  <circle cx="1624.0" cy="535" r="10" fill="#1f2937"/>
+  <text x="1624.0" y="538" text-anchor="middle" fill="white" font-size="9" font-weight="bold">D3</text>
+  <rect x="1529.0" y="630.0" width="80" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="1569.0" y="653" text-anchor="middle" fill="white" font-size="11" font-weight="600">fly_ash</text>
+  <text x="1569.0" y="667" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <rect x="1629.0" y="630.0" width="50" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="1654.0" y="653" text-anchor="middle" fill="white" font-size="11" font-weight="600">age</text>
+  <text x="1654.0" y="667" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">28</text>
+  <rect x="1771.5" y="430.0" width="50" height="50" rx="8" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <text x="1796.5" y="453" text-anchor="middle" fill="white" font-size="11" font-weight="600">DIV</text>
+  <text x="1796.5" y="467" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-4.409</text>
+  <rect x="1699.0" y="530.0" width="50" height="50" rx="8" ry="8" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+  <text x="1724.0" y="553" text-anchor="middle" fill="white" font-size="11" font-weight="600">_K4</text>
+  <text x="1724.0" y="567" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">4.409</text>
+  <path d="M 1831.5 530 L 1856.5 555 L 1831.5 580 L 1806.5 555 Z" fill="#f97316" stroke="#f97316" stroke-width="3"/>
+  <text x="1831.5" y="553" text-anchor="middle" fill="white" font-size="11" font-weight="600">CMP</text>
+  <text x="1831.5" y="567" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">-1</text>
+  <circle cx="1851.5" cy="535" r="10" fill="#1f2937"/>
+  <text x="1851.5" y="538" text-anchor="middle" fill="white" font-size="9" font-weight="bold">D4</text>
+  <text x="1808.5" y="542" fill="#f97316" font-size="14">⭐</text>
+  <rect x="1771.5" y="630.0" width="50" height="50" rx="8" ry="8" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+  <text x="1796.5" y="653" text-anchor="middle" fill="white" font-size="11" font-weight="600">_K5</text>
+  <text x="1796.5" y="667" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">25</text>
+  <rect x="1844.0" y="630.0" width="50" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="1869.0" y="653" text-anchor="middle" fill="white" font-size="11" font-weight="600">age</text>
+  <text x="1869.0" y="667" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">28</text>
+  <path d="M 1989.0 330 L 2014.0 355 L 1989.0 380 L 1964.0 355 Z" fill="#8b5cf6" stroke="#374151" stroke-width="1"/>
+  <text x="1989.0" y="353" text-anchor="middle" fill="white" font-size="11" font-weight="600">MIN</text>
+  <text x="1989.0" y="367" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <circle cx="2009.0" cy="335" r="10" fill="#1f2937"/>
+  <text x="2009.0" y="338" text-anchor="middle" fill="white" font-size="9" font-weight="bold">D2</text>
+  <rect x="1914.0" y="430.0" width="80" height="50" rx="8" ry="8" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <text x="1954.0" y="453" text-anchor="middle" fill="white" font-size="11" font-weight="600">fly_ash</text>
+  <text x="1954.0" y="467" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="9" font-weight="400">0</text>
+  <rect x="2014.0" y="430.0" width="50" height="50" rx="8" ry="8" fill="#d1d5db" stroke="#374151" stroke-width="1"/>
+  <text x="2039.0" y="453" text-anchor="middle" fill="#374151" font-size="11" font-weight="600">_K6</text>
+  <text x="2039.0" y="467" text-anchor="middle" fill="#6b7280" font-size="9" font-weight="400">4.269</text>
+
+  <!-- Legend -->
+  <text x="20" y="1335" fill="#6b7280" font-size="10">Nodes: <tspan fill="#3b82f6">●</tspan> feature  <tspan fill="#6b7280">●</tspan> constant  <tspan fill="#8b5cf6">◆</tspan> decision  <tspan fill="#22c55e">●</tspan> operation  <tspan fill="#d1d5db">●</tspan> inactive  <tspan fill="#f97316">⭐</tspan> critical  | Edges: <tspan fill="#16a34a">━</tspan> +contrib  <tspan fill="#dc2626">━</tspan> −contrib</text>
+</svg>

@@ -1,0 +1,42 @@
+============================================================
+German Credit — Instance 1
+============================================================
+
+True label: 0
+Prediction: negative (score: -1.00)
+
+--- FCP Value Contributions ---
+  residence_years = 4.0: -1.0000
+  Baseline: 0.0000
+  Output:   -1.0000
+
+--- FCP Decision Contributions ---
+  num_credits = 2.0: 1.0000
+  Decision margin: +4.000
+
+--- Textual Explanation ---
+## Why this prediction?
+The model produced an output of -1.
+This was determined by a combination of:
+  • Decisions: other_installments < residence_years, (|((_K0 + employment_years) + (other_installments / (checking_status - property)))| / (num_dependents * property)) > other_installments
+  • Values: residence_years
+
+## How confident is the model?
+The prediction is somewhat unstable (stability: 50%).
+The most critical decision was 'other_installments < residence_years' with a margin of 4.
+
+## What would change the prediction?
+No simple counterfactuals were identified.
+
+--- SHAP Values (for comparison) ---
+  checking_status = 0.0: -0.8045
+  residence_years = 4.0: -0.0328
+  employment_years = 4.0: +0.0306
+  other_debtors = 0.0: -0.0261
+  num_credits = 2.0: -0.0234
+  other_installments = 0.0: +0.0182
+  housing = 1.0: -0.0079
+  property = 0.0: -0.0065
+  duration_months = 48.0: -0.0053
+  credit_history = 0.0: -0.0022
+  Baseline: -0.1400

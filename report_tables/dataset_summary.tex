@@ -1,0 +1,15 @@
+\begin{table}[ht]
+  \centering
+  \small
+  \caption{Summary of datasets. Cost matrix entries (FN/FP) indicate misclassification penalties used in the GP fitness function.}
+  \label{tab:datasets}
+  \begin{tabular}{@{}lllccll@{}}
+    \toprule
+    \textbf{Dataset} & \textbf{Task} & \textbf{Features} & \textbf{Inst.} & \textbf{Cost (FN/FP)} & \textbf{Key Metric} & \textbf{FCP Focus} \\
+    \midrule
+    German Credit & Classification & 24 (mixed) & 1000 & 1 / 5 & Specificity & Decision ch. \\
+    Concrete Strength & Regression & 8 continuous & 1030 & --- & $R^2$ & Value ch. \\
+    Diabetes Risk & Classification & 15 binary + age & 520 & 2 / 1 & Sensitivity & Decision ch. \\
+    \bottomrule
+  \end{tabular}
+\end{table}

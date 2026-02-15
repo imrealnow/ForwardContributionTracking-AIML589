@@ -1,0 +1,14 @@
+\begin{table}[ht]
+  \centering
+  \caption{Per-instance explanation time: FCP (single forward pass) vs KernelSHAP (500 samples). Averaged over 30 test instances.}
+  \label{tab:timing}
+  \begin{tabular}{@{}lccc@{}}
+    \toprule
+    \textbf{Dataset} & \textbf{FCP (ms)} & \textbf{SHAP (ms)} & \textbf{Speedup} \\
+    \midrule
+    German Credit & 0.26 & 500.6 & 1949$\times$ \\
+    Concrete & 0.37 & 136.2 & 369$\times$ \\
+    Diabetes & 0.26 & 235.3 & 902$\times$ \\
+    \bottomrule
+  \end{tabular}
+\end{table}

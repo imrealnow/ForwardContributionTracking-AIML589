@@ -1,0 +1,52 @@
+============================================================
+German Credit — Instance 2
+============================================================
+
+True label: 1
+Prediction: positive (score: 1.00)
+
+--- FCP Value Contributions ---
+  property = 0.0: +1.0000
+  Baseline: 0.0000
+  Output:   1.0000
+
+--- FCP Decision Contributions ---
+  num_credits = 1.0: 1.0000
+  Decision margin: -1.000
+
+--- Textual Explanation ---
+## Why this prediction?
+The model predicted TRUE (1).
+This was determined by the following decision(s):
+  • checking_status <= num_dependents (decision)
+  • other_installments < residence_years (decision)
+  • (|((_K0 + employment_years) + (other_installments / (checking_status - property)))| / (num_dependents * property)) > other_installments (decision)
+
+## How confident is the model?
+The prediction is somewhat unstable (stability: 50%).
+The most critical decision was 'checking_status <= num_dependents' with a margin of 1.
+
+## What would change the prediction?
+To change the prediction:
+  • Change 'checking_status' from 2 to 1 (Δ = -1)
+    This would flip a critical decision.
+    This represents a 50.0% change.
+
+--- Counterfactual Analysis ---
+Verified counterfactuals (output flips):
+  Decrease checking_status from 2.00 to 1.00 (delta: -1.00)
+    Output: 1.00 -> -1.00
+    (Change checking_status to flip critical decision)
+
+--- SHAP Values (for comparison) ---
+  checking_status = 2.0: +0.8622
+  other_installments = 0.0: +0.1994
+  num_dependents = 1.0: +0.1436
+  other_debtors = 0.0: -0.0736
+  employment_years = 4.0: +0.0471
+  property = 0.0: -0.0315
+  residence_years = 2.0: +0.0254
+  housing = 1.0: -0.0245
+  num_credits = 1.0: +0.0086
+  credit_history = 2.0: +0.0033
+  Baseline: -0.1600
